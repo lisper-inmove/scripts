@@ -1,0 +1,9 @@
+* 收集的linux 脚本
+* ps-mem.py
+  #+BEGIN_VERSE
+  显示进程使用的内存脚本  
+  #+END_VERSE
+* update-kernel.sh
+  #+BEGIN_VERSE
+  linux kernel升级脚本
+  #+END_VERSE
